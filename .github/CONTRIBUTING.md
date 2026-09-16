@@ -40,6 +40,11 @@ Low-effort autonomous self-promotion PRs may be closed without feedback.
 
 Before submitting something new, consider helping us out by reviewing other entries on this list.
 
+### AI
+Submitted content must be human-written, including descriptions and PR bodies.
+
+It's totally fine to use AI to help you work with the YAML, review your contribution, or translate content to/from your native language. But it should not be used to write or generate content intended to be read by humans, or to submit contributions autonomously. If AI has been used substantially while preparing a PR, this should be clearly disclosed.
+
 
 ### Other Changes
 
