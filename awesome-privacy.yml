@@ -4466,6 +4466,17 @@ categories:
         description: |
           Blocks unauthorized webcam access.
 
+      - name: Win11Debloat
+        url: https://github.com/Raphire/Win11Debloat
+        github: Raphire/Win11Debloat
+        openSource: true
+        icon: https://avatars.githubusercontent.com/u/9938813?s=256&v=4
+        description: |
+          Open-source PowerShell script that removes bloatware, disables telemetry
+          and pre-installed apps for Windows 10 and 11, with whitelists/blacklists
+          reversion support. It heavily modifies the OS, so a restore point
+          is advised.
+
       wordOfWarning: |
         (The above software was last tested on 01/05/20).
         Many of the above tools are not necessary or suitable for beginners,
